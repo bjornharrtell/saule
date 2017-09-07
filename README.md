@@ -6,7 +6,6 @@ See the [our documentation](http://joukevandermaas.github.io/saule) for more inf
 
 ```
 Install-Package saule
-Install-Package saule.AspNetCore
 ```
 
 To use Saule, you must define resources that contain the information
